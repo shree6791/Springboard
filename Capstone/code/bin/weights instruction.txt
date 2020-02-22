@@ -1,0 +1,2 @@
+Download weights from below link:
+https://pjreddie.com/darknet/yolov2/ 
